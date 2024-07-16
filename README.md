@@ -69,10 +69,14 @@ This project is a pizza delivery SPA website built in ReactJS + Vite along with 
 <img width="1440" alt="Priority" src="https://github.com/user-attachments/assets/49eefd31-b245-4754-bad1-cd676f0a6a11">
 
 
+# Project Setup:
 
+To ensure seamless experience with the project, you need to follow the given steps:
 
+=> Clone the repository on you system's IDE or download the ZIP file of the project.
 
+=> Open the project.
 
+=> Download "node modules" by entering the following command "**npm i**".
 
-
-# React + Vite
+=> Download Tailwind CSS by their download guide given on their website. (TailwindCSS)[https://tailwindcss.com/docs/installation]
