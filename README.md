@@ -79,7 +79,7 @@ To ensure seamless experience with the project, you need to follow the given ste
 
 => Download "node modules" by entering the following command "**npm i**".
 
-=> Download Tailwind CSS by their download guide given on their website. [TailwindCSS](https://tailwindcss.com])
+=> Download Tailwind CSS by their download guide given on their website. [TailwindCSS](https://tailwindcss.com/docs/installation)
 
 => Afer everything is setup, simply open terminal and write "**npm run dev**" and run the project.
 
