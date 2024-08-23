@@ -1,5 +1,7 @@
 # Fast-React-Pizza Application With React + Vite + Tailwindcss
 
+***Live Demo***: https://fast-react-pizza.netlify.app
+
 ## Project Overview:
 
 This project is a pizza delivery SPA website built in ReactJS + Vite along with TailwindCSS for styling and designing. The user can perform numerous thing swhen on this website like:
